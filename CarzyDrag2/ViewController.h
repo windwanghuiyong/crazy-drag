@@ -9,6 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)sliderMoved:(id)sender;
+@property (strong, nonatomic) IBOutlet UILabel *targetLabel;
+@property (strong, nonatomic) IBOutlet UISlider *slider;
 
 
 @end

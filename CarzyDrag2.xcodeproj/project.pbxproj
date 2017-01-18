@@ -416,6 +416,7 @@
 				0C4231341B88040E00B4FEAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C4231351B88040E00B4FEAD /* Build configuration list for PBXNativeTarget "CarzyDrag2Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				0C4231371B88040E00B4FEAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
